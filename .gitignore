@@ -1,0 +1,29 @@
+# Build output
+bin/
+obj/
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Test results
+TestResults/
+
+# Rider / ReSharper (optional but common)
+_ReSharper*/
+*.DotSettings.user
+
+# NuGet packages 
+packages/
+
+# OS files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+**/packages/*
+!**/packages/build/
+# If using modern .NET, ignore the local tool folder
+.config/dotnet-tools.json

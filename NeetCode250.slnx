@@ -1,0 +1,8 @@
+<Solution>
+  <Folder Name="/solutions/">
+    <Project Path="solutions/TwoPointers/TwoPointers.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/TwoPointers.Tests/TwoPointers.Tests.csproj" />
+  </Folder>
+</Solution>
